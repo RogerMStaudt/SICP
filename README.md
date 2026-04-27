@@ -1,0 +1,1 @@
+This repository will contain all my exercises, notes, and projects related to MIT's Structure and Interpretation of Computer Programs.
